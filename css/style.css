@@ -71,14 +71,10 @@ body{
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #FFFFFF;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
   background-color: #4D5AE5;
   white-space: nowrap;
   font-family: "Roboto", sans-serif;
   cursor: pointer;
-  border: none;
 }
 .order-button:hover{
   background-color: #404BBF;
